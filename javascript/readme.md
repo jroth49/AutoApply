@@ -1,7 +1,6 @@
 This script is designed to automatically apply for jobs based on a prefiltered link. 
 An example link would be: https://www.linkedin.com/jobs/computer-science-jobs-united-states/?f_AL=true&f_E=2&f_WT=2&geoId=103644278
 
-
 ***Easy Apply must be on***
 
 The script does automation based on prefilled answers from previous easy apply, so having used easy apply a lot will make this script run smoothly.
