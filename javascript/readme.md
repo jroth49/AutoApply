@@ -7,4 +7,4 @@ The script does automation based on prefilled answers from previous easy apply, 
 If you haven't filled out a pre-questionaire on easy apply it will simply stop the script giving and alert "You need to enter info." Using the main(); 
 method after filling out the empty space will continue the script.
 
-Isn't fullproof will have connection errors must have a good connection to have the script run well. 
+Isn't fullproof will have connection errors must have a good connection to have the script run well. Also haven't incorporated the next page after applying for all the jobs on the current page.
